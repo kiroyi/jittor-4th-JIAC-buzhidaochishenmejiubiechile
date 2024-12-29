@@ -1,0 +1,404 @@
+class_descri,target
+"a photo of a bear, a type of animal.",0
+"a photo of a bee, a type of animal.",1
+"a photo of a bird, a type of animal.",2
+"a photo of a butterfly, a type of animal.",3
+"a photo of a camel, a type of animal.",4
+"a photo of a caribou, with large, branching antlers and a thick brown coat, a type of animal.",5
+"a photo of a cat, a type of animal.",6
+"a photo of a chicken, a type of animal.",7
+"a photo of a cow, a type of animal.",8
+"a photo of a deer, a type of animal.",9
+"a photo of a dolphin, a type of animal.",10
+"a photo of a donkey, a type of animal.",11
+"a photo of a duck, a type of animal.",12
+"a photo of a eagle, a type of animal.",13
+"a photo of a elephant, a type of animal.",14
+"a photo of a elk, with brownish-red fur and large antlers, a type of animal.",15
+"a photo of a fish, a type of animal.",16
+"a photo of a flamingo, a type of animal.",17
+"a photo of a fox, a type of animal.",18
+"a photo of a giraffe, a type of animal.",19
+"a photo of a goose, a type of animal.",20
+"a photo of a hippopotamus, a type of animal.",21
+"a photo of a horse, a type of animal.",22
+"a photo of a kangaroo, a type of animal.",23
+"a photo of a koala, a type of animal.",24
+"a clear photo of a leopard, a type of animal.",25
+"a photo of a lion, a type of animal.",26
+"a photo of a llama, with a long neck and long hair, a type of animal.",27
+"a photo of a monkey, a type of animal.",28
+"a photo of a orangutan, with long reddish hair, long arms, and hooked hands and feet, a type of animal.",29
+"a photo of a otter, with an elongated body, dense fur, and webbed feet, a type of animal.",30
+"a photo of a owl, with large forward-facing eyes surrounded by facial disks, a hooked beak, a type of animal.",31
+"a photo of a panda, with characteristic black and white markings, a type of animal.",32
+"a photo of a peacock, with very long tail feathers, eye-like markings, a type of animal.",33
+"a photo of a penguin, a type of animal.",34
+"a photo of a pig, a type of animal.",35
+"a photo of a pigeon, with gray and white plumage, a type of animal.",36
+"a photo of a polar bear, with white fur, a type of animal.",37
+"a photo of a rabbit, with long ears, long hind legs, and a short tail, a type of animal.",38
+"a photo of a raccoon, a foxlike face with a black mask and a ringed tail, a type of animal.",39
+"a clear photo of a rhinoceros, a type of animal.",40
+"a photo of a sea lion, a type of animal.",41
+"a photo of a seal, a type of animal.",42
+"a photo of a shark, a type of animal.",43
+"a photo of a sheep, a type of animal.",44
+"a photo of a sparrow, a type of animal.",45
+"a photo of a squirrel, with a bushy tail, a type of animal.",46
+"a photo of a swan, with a long neck and all-white plumagea type of waterbird.",47
+"a photo of a tiger, a type of animal.",48
+"a photo of a whale, a type of animal.",49
+"a photo of a wolf, a type of animal.",50
+"a photo of a zebra, with black-and-white stripes, a type of animal.",51
+"a photo of a human face.",52
+"a cropped photo of a human face.",53
+"a blurry photo of a leopard, a type of animal.",54
+"a photo of a motorbike.",55
+"a photo of a accordion, a type of musical instrument.",56
+"a photo of a airplane.",57
+"a photo of a anchor.",58
+"a photo of a ant, a type of animal.",59
+"a photo of a barrel.",60
+"a photo of a bass guitar, a type of musical instrument.",61
+"a photo of a beaver, a type of animal.",62
+"a photo of a binocular.",63
+"a photo of a bonsai.",64
+"a photo of a brain.",65
+"a photo of a brontosaurus, a type of dinosaur.",66
+"a photo of a buddha.",67
+"a photo of a camera.",68
+"a photo of a cannon.",69
+"a photo of a car from the side.",70
+"a photo of a ceiling fan.",71
+"a photo of a cellphone.",72
+"a photo of a chair.",73
+"a photo of a chandelier.",74
+"a close-up photo of a cougar's body.",75
+"a close-up photo of a cougar's face.",76
+"a photo of a crab, a type of animal.",77
+"a photo of a crayfish, a type of animal.",78
+"a photo of a crocodile, a type of animal.",79
+"a close-up photo of a crocodile's head.",80
+"a photo of a cup.",81
+"a photo of a dalmatian, a type of dog.",82
+"a photo of a dollar bill.",83
+"a photo of a dragonfly, a type of insect.",84
+"a photo of a electric guitar, a type of musical instrument.",85
+"a photo of a emu, a type of animal.",86
+"a photo of a euphonium, a type of musical instrument.",87
+"a photo of a ewer.",88
+"a photo of a ferry.",89
+"a photo of a garfield, a cartoon character.",90
+"a photo of a gerenuk, a type of animal.",91
+"a photo of a gramophone.",92
+"a photo of a grand piano, a type of musical instrument.",93
+"a photo of a hawksbill, a type of animal.",94
+"a photo of a headphone.",95
+"a photo of a hedgehog, a type of animal.",96
+"a photo of a helicopter.",97
+"a photo of a ibis, a type of animal.",98
+"a photo of a inline skate.",99
+"a photo of a joshua tree.",100
+"a photo of a ketch.",101
+"a photo of a lamp.",102
+"a photo of a laptop.",103
+"a photo of a lobster, a type of animal.",104
+"a photo of a lotus.",105
+"a photo of a mandolin, a type of musical instrument.",106
+"a photo of a mayfly, a type of insect.",107
+"a photo of a menorah.",108
+"a photo of a metronome.",109
+"a photo of a minaret.",110
+"a photo of a nautilus, a type of animal.",111
+"a photo of a octopus, a type of animal.",112
+"a photo of a okapi, a type of animal.",113
+"a photo of a pagoda.",114
+"a photo of a platypus, a type of animal.",115
+"a photo of a pyramid.",116
+"a photo of a revolver.",117
+"a blurry photo of a rhino, a type of animal.",118
+"a photo of a rooster, a type of animal.",119
+"a photo of a saxophone, a type of musical instrument.",120
+"a photo of a schooner, with two or more masts.",121
+"a photo of a scissors.",122
+"a photo of a scorpion, a type of animal.",123
+"a photo of a sea horse, a type of animal.",124
+"a photo of a snoopy, a cartoon character.",125
+"a photo of a soccer ball.",126
+"a photo of a stapler.",127
+"a photo of a starfish, a type of animal.",128
+"a photo of a stegosaurus, a type of dinosaur.",129
+"a photo of a stop sign.",130
+"a photo of a strawberry.",131
+"a photo of a sunflower.",132
+"a photo of a tick, a type of insect.",133
+"a photo of a trilobite, a type of insect.",134
+"a photo of a umbrella.",135
+"a photo of a watch.",136
+"a photo of a water lilly.",137
+"a photo of a wheelchair.",138
+"a photo of a wild cat, a type of animal.",139
+"a photo of a windsor chair.",140
+"a photo of a wrench.",141
+"a photo of a yin yang.",142
+"a photo of apple pie, a type of food.",143
+"a photo of baby back ribs, a type of food.",144
+"a photo of baklava, a type of food.",145
+"a photo of beef carpaccio, a type of food.",146
+"a photo of beef tartare, a type of food.",147
+"a photo of beet salad, a type of food.",148
+"a photo of beignets, a type of food.",149
+"a photo of bibimbap, a type of food.",150
+"a photo of bread pudding, a type of food.",151
+"a photo of breakfast burrito, a type of food.",152
+"a photo of bruschetta, a type of food.",153
+"a photo of caesar salad, a type of food.",154
+"a photo of cannoli, a type of food.",155
+"a photo of caprese salad, a type of food.",156
+"a photo of carrot cake, a type of food.",157
+"a photo of ceviche, a type of food.",158
+"a photo of cheese plate, a type of food.",159
+"a photo of cheesecake, a type of food.",160
+"a photo of chicken curry, a type of food.",161
+"a photo of chicken quesadilla, a type of food.",162
+"a photo of chicken wings, a type of food.",163
+"a photo of chocolate cake, a type of food.",164
+"a photo of chocolate mousse, a type of food.",165
+"a photo of churros, a type of food.",166
+"a photo of clam chowder, a type of food.",167
+"a photo of club sandwich, a type of food.",168
+"a photo of crab cakes, a type of food.",169
+"a photo of creme brulee, a type of food.",170
+"a photo of croque madame, a type of food.",171
+"a photo of cup cakes, a type of food.",172
+"a photo of deviled eggs, a type of food.",173
+"a photo of donuts, a type of food.",174
+"a photo of dumplings, a type of food.",175
+"a photo of edamame, a type of food.",176
+"a photo of eggs benedict, a type of food.",177
+"a photo of escargots, a type of food.",178
+"a photo of falafel, a type of food.",179
+"a photo of filet mignon, a type of food.",180
+"a photo of fish and chips, a type of food.",181
+"a photo of foie gras, a type of food.",182
+"a photo of french fries, a type of food.",183
+"a photo of french onion soup, a type of food.",184
+"a photo of french toast, a type of food.",185
+"a photo of fried calamari, a type of food.",186
+"a photo of fried rice, a type of food.",187
+"a photo of frozen yogurt, a type of food.",188
+"a photo of garlic bread, a type of food.",189
+"a photo of gnocchi, a type of food.",190
+"a photo of greek salad, a type of food.",191
+"a photo of grilled cheese sandwich, a type of food.",192
+"a photo of grilled salmon, a type of food.",193
+"a photo of guacamole, a type of food.",194
+"a photo of gyoza, a type of food.",195
+"a photo of hamburger, a type of food.",196
+"a photo of hot and sour soup, a type of food.",197
+"a photo of hot dog, a type of food.",198
+"a photo of huevos rancheros, a type of food.",199
+"a photo of hummus, a type of food.",200
+"a photo of ice cream, a type of food.",201
+"a photo of lasagna, a type of food.",202
+"a photo of lobster bisque, a type of food.",203
+"a photo of lobster roll sandwich, a type of food.",204
+"a photo of macaroni and cheese, a type of food.",205
+"a photo of macarons, a type of food.",206
+"a photo of miso soup, a type of food.",207
+"a photo of mussels, a type of food.",208
+"a photo of nachos, a type of food.",209
+"a photo of omelette, a type of food.",210
+"a photo of onion rings, a type of food.",211
+"a photo of oysters, a type of food.",212
+"a photo of pad thai, a type of food.",213
+"a photo of paella, a type of food.",214
+"a photo of pancakes, a type of food.",215
+"a photo of panna cotta, a type of food.",216
+"a photo of peking duck, a type of food.",217
+"a photo of pho, a type of food.",218
+"a photo of pizza, a type of food.",219
+"a photo of pork chop, a type of food.",220
+"a photo of poutine, a type of food.",221
+"a photo of prime rib, a type of food.",222
+"a photo of pulled pork sandwich, a type of food.",223
+"a photo of ramen, a type of food.",224
+"a photo of ravioli, a type of food.",225
+"a photo of red velvet cake, a type of food.",226
+"a photo of risotto, a type of food.",227
+"a photo of samosa, a type of food.",228
+"a photo of sashimi, a type of food.",229
+"a photo of scallops, a type of food.",230
+"a photo of seaweed salad, a type of food.",231
+"a photo of shrimp and grits, a type of food.",232
+"a photo of spaghetti bolognese, a type of food.",233
+"a photo of spaghetti carbonara, a type of food.",234
+"a photo of spring rolls, a type of food.",235
+"a photo of steak, a type of food.",236
+"a photo of strawberry shortcake, a type of food.",237
+"a photo of sushi, a type of food.",238
+"a photo of tacos, a type of food.",239
+"a photo of takoyaki, a type of food.",240
+"a photo of tiramisu, a type of food.",241
+"a photo of tuna tartare, a type of food.",242
+"a photo of waffles, a type of food.",243
+"a photo of a shiba dog, a type of dog.",244
+"a photo of a french bulldog, a type of dog.",245
+"a photo of a siberian husky, a type of dog.",246
+"a photo of a malamute, a type of dog.",247
+"a photo of a pomeranian, a type of dog.",248
+"a photo of a airedale, a type of dog.",249
+"a photo of a miniature poodle, a type of dog.",250
+"a photo of a affenpinscher, a type of dog.",251
+"a photo of a schipperke, a type of dog.",252
+"a photo of a australian terrier, a type of dog.",253
+"a photo of a welsh springer spaniel, a type of dog.",254
+"a photo of a curly coated retriever, a type of dog.",255
+"a photo of a staffordshire bullterrier, a type of dog.",256
+"a photo of a norwich terrier, a type of dog.",257
+"a photo of a tibetan terrier, a type of dog.",258
+"a photo of a english setter, a type of dog.",259
+"a photo of a norfolk terrier, a type of dog.",260
+"a photo of a pembroke, a type of dog.",261
+"a photo of a tibetan mastiff, a type of dog.",262
+"a photo of a border terrier, a type of dog.",263
+"a photo of a great dane, a type of dog.",264
+"a photo of a scotch terrier, a type of dog.",265
+"a photo of a flat coated retriever, a type of dog.",266
+"a photo of a saluki, a type of dog.",267
+"a photo of a irish setter, a type of dog.",268
+"a photo of a blenheim spaniel, a type of dog.",269
+"a photo of a irish terrier, a type of dog.",270
+"a photo of a bloodhound, a type of dog.",271
+"a photo of a redbone, a type of dog.",272
+"a photo of a west highland white terrier, a type of dog.",273
+"a photo of a brabancon griffo, a type of dog.",274
+"a photo of a dhole, a type of dog.",275
+"a photo of a kelpie, a type of dog.",276
+"a photo of a doberman, a type of dog.",277
+"a photo of a ibizan hound, a type of dog.",278
+"a photo of a vizsla, a type of dog.",279
+"a photo of a cairn, a type of dog.",280
+"a photo of a german shepherd, a type of dog.",281
+"a photo of a african hunting dog, a type of dog.",282
+"a photo of a dandie dinmont, a type of dog.",283
+"a photo of a sealyham terrier, a type of dog.",284
+"a photo of a german short haired pointer, a type of dog.",285
+"a photo of a bernese mountain dog, a type of dog.",286
+"a photo of a saint bernard, a type of dog.",287
+"a photo of a leonberg, a type of dog.",288
+"a photo of a bedlington terrier, a type of dog.",289
+"a photo of a newfoundland, a type of dog.",290
+"a photo of a lhasa, a type of dog.",291
+"a photo of a chesapeake bay retriever, a type of dog.",292
+"a photo of a lakeland terrier, a type of dog.",293
+"a photo of a walker hound, a type of dog.",294
+"a photo of a american staffordshire terrier, a type of dog.",295
+"a photo of a otterhound, a type of dog.",296
+"a photo of a sussex spaniel, a type of dog.",297
+"a photo of a norwegian elkhound, a type of dog.",298
+"a photo of a bluetick, a type of dog.",299
+"a photo of a dingo, a type of dog.",300
+"a photo of a irish water spaniel, a type of dog.",301
+"a photo of a samoyed, a type of dog.",302
+"a photo of a fila braziliero, a type of dog.",303
+"a photo of a standard schnauzer, a type of dog.",304
+"a photo of a mexican hairless, a type of dog.",305
+"a photo of a entlebucher, a type of dog.",306
+"a photo of a afghan hound, a type of dog.",307
+"a photo of a kuvasz, a type of dog.",308
+"a photo of a english foxhound, a type of dog.",309
+"a photo of a keeshond, a type of dog.",310
+"a photo of a irish wolfhound, a type of dog.",311
+"a photo of a scottish deerhound, a type of dog.",312
+"a photo of a rottweiler, a type of dog.",313
+"a photo of a black and tan coonhound, a type of dog.",314
+"a photo of a great pyrenees, a type of dog.",315
+"a photo of a boxer, a type of dog.",316
+"a photo of a wire haired fox terrier, a type of dog.",317
+"a photo of a borzoi, a type of dog.",318
+"a photo of a groenendael, a type of dog.",319
+"a photo of a collie, a type of dog.",320
+"a photo of a gordon setter, a type of dog.",321
+"a photo of a kerry blue terrier, a type of dog.",322
+"a photo of a briard, a type of dog.",323
+"a photo of a rhodesian ridgeback, a type of dog.",324
+"a photo of a boston bull, a type of dog.",325
+"a photo of a bull mastiff, a type of dog.",326
+"a photo of a silky terrier, a type of dog.",327
+"a photo of a brittany spaniel, a type of dog.",328
+"a photo of a eskimo dog, a type of dog.",329
+"a photo of a giant schnauzer, a type of dog.",330
+"a photo of a malinois, a type of dog.",331
+"a photo of a bouvier des flandres, a type of dog.",332
+"a photo of a whippet, a type of dog.",333
+"a photo of a appenzeller, a type of dog.",334
+"a photo of a chinese crested dog, a type of dog.",335
+"a photo of a miniature schnauzer, a type of dog.",336
+"a photo of a soft coated wheaten terrier, a type of dog.",337
+"a photo of a weimaraner, a type of dog.",338
+"a photo of a clumber, a type of dog.",339
+"a photo of a greater swiss mountain dog, a type of dog.",340
+"a photo of a toy terrier, a type of dog.",341
+"a photo of a italian greyhound, a type of dog.",342
+"a photo of a basset, a type of dog.",343
+"a photo of a basenji, a type of dog.",344
+"a photo of a australian shepherd, a type of dog.",345
+"a photo of a maltese dog, a type of dog.",346
+"a photo of a japanese spaniel, a type of dog.",347
+"a photo of a cane carso, a type of dog.",348
+"a photo of a japanese spitzes, a type of dog.",349
+"a photo of a old english sheepdog, a type of dog.",350
+"a photo of a black sable, a type of dog.",351
+"a photo of a border collie, a type of dog.",352
+"a photo of a shetland sheepdog, a type of dog.",353
+"a photo of a english springer, a type of dog.",354
+"a photo of a beagle, a type of dog.",355
+"a photo of a cocker spaniel, a type of dog.",356
+"a photo of a cardigan, a type of dog.",357
+"a photo of a toy poodle, a type of dog.",358
+"a photo of a bichon frise, a type of dog.",359
+"a photo of a standard poodle, a type of dog.",360
+"a photo of a komondor, a type of dog.",361
+"a photo of a chow, a type of dog.",362
+"a photo of a chinese rural dog, a type of dog.",363
+"a photo of a yorkshire terrier, a type of dog.",364
+"a photo of a labrador retriever, a type of dog.",365
+"a photo of a shih tzu, a type of dog.",366
+"a photo of a chihuahua, a type of dog.",367
+"a photo of a pekinese, a type of dog.",368
+"a photo of a golden retriever, a type of dog.",369
+"a photo of a miniature pinscher, a type of dog.",370
+"a photo of a teddy, a type of dog.",371
+"a photo of a pug, a type of dog.",372
+"a photo of a papillon, a type of dog.",373
+"a photo of a 2012 audi tts coupe, featuring a sporty design with a low stance and angular lines.",374
+"a photo of a 2012 audi r8 coupe, showcasing a sleek, high-performance design with sharp lines and led headlights.",375
+"a photo of a 2012 bmw x6 suv, known for its sporty coupe-like silhouette and high ground clearance.",376
+"a photo of a 2012 chevrolet corvette convertible, with a sleek, aerodynamic design and a stylish convertible top.",377
+"a photo of a 2007 chevrolet corvette z06 ron fellows edition, featuring a high-performance, sleek design with unique stripes.",378
+"a photo of a 2012 chevrolet avalanche crew cab, a rugged truck with a spacious cab and versatile cargo area.",379
+"a photo of a 2009 chrysler aspen suv, featuring a boxy, rugged design and a spacious interior.",380
+"a photo of a 2008 chrysler crossfire convertible, known for its sporty, stylish look and low stance.",381
+"a photo of a 2008 chrysler pt cruiser convertible, with a unique, retro design and a distinctive convertible top.",382
+"a photo of a 2009 dodge ram 3500 quad cab pickup, featuring a heavy-duty design and extra passenger space.",383
+"a photo of a 2009 dodge charger srt-8, showcasing a muscular, aggressive look with sporty design elements.",384
+"a photo of a 2012 fiat 500 abarth, a compact hatchback with sporty accents and a distinctive design.",385
+"a photo of a 2011 ford ranger supercab, featuring a rugged design with an extended cab and practical cargo bed.",386
+"a photo of a 2007 ford f-150 regular cab, a sturdy truck with a classic design and a spacious cargo bed.",387
+"a photo of a 2012 ford fiesta sedan, with a sleek, compact design and practical four-door layout.",388
+"a photo of a 2012 gmc canyon extended cab, featuring a rugged design with extra passenger space.",389
+"a photo of a 2009 hummer h2 sut crew cab, combining suv and truck features with a bold design.",390
+"a photo of a 2012 infiniti g coupe ipl, showcasing a sporty, sleek design with performance upgrades.",391
+"a photo of a 2011 mazda tribute suv, featuring a practical design with a high ride height and spacious interior.",392
+"a photo of a 2012 mercedes-benz c-class sedan, known for its sleek design and luxurious interior.",393
+"a photo of a 2012 mitsubishi lancer sedan, featuring a sporty design with sharp lines and a bold front grille.",394
+"a photo of a 1998 nissan 240sx coupe, with a sleek, sporty design and rear-wheel-drive layout.",395
+"a photo of a 1999 plymouth neon coupe, featuring a compact, rounded design with a sporty look.",396
+"a photo of a 2012 rolls-royce phantom sedan, known for its luxurious design and spacious interior.",397
+"a photo of a 2009 spyker c8 coupe, featuring an exotic design with bold lines and intricate details.",398
+"a photo of a 2012 toyota sequoia suv, a large vehicle with a rugged design and three rows of seating.",399
+"a photo of a 2012 toyota 4runner suv, featuring a robust, off-road-ready design with high ground clearance.",400
+"a photo of a 2012 volkswagen golf hatchback, known for its compact design and versatile hatchback layout.",401
+"a photo of a 2012 volvo c30 hatchback, featuring a distinctive design with a unique rear hatch and sporty lines.",402
