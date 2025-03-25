@@ -1,2 +1,2 @@
-# jittor-buzhidaochishenmejiubiechile-4th-JIAC
+# jittore-4th-JIAC-buzhidaochishenmejiubiechil
 The 4th Jittor Artificial Intelligence Challenge
