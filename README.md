@@ -1,2 +1,7 @@
-# jittore-4th-JIAC-buzhidaochishenmejiubiechil
-The 4th Jittor Artificial Intelligence Challenge
+# 第四届jittor人工智能挑战赛
+## 赛题介绍
+在人工智能的快速进展中，视觉语言模型已经成为计算机视觉领域的重要技术。这些模型在多任务处理上表现出色，显示出广泛的应用潜力。但是，在数据标注成本高昂的情况下，面对特定领域的挑战时，它们的表现还需提升。因此，如何在少量数据的支持下提高模型在特定领域的表现，已成为当下研究的热点问题。同时，使用少量数据增强多个领域上的表现，更具有挑战性。
+
+因此，本赛题要求参赛者使用极少的多领域训练样本，探索在大模型时代下模型训练的创新策略，实现对多领域数据组成的测试集准确地分类。
+
+我们为选手提供了CLIP模型[1](Contrastive Language-Image Pre-Training)的Jittor版代码作为Baseline，期待大家在此基础上做出更多创新性尝试。
